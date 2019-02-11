@@ -4,8 +4,7 @@ Title: A random collection of useful functions.
 Version: 0.1.0
 Author: SN de Koning
 Maintainer: SN de Koning <sylvester.de.koning90@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: 
 License: GNU GPLv3
 Encoding: UTF-8
 LazyData: true
